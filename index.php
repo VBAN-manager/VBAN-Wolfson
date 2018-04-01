@@ -1,4 +1,7 @@
-		<div class="col-md-8">
+<?php
+$page = "plugins-VBAN-Wolfson";
+?>
+    <div class="col-md-8">
 			<h3 class="mb-5">
 				Wolfson / Cirrus plugin
 			</h3>            
@@ -64,4 +67,3 @@
                 </div>
             </form>
 		</div>
-<?php include 'bottom.php'; ?>
